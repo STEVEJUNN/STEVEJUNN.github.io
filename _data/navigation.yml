@@ -3,10 +3,10 @@ main:
   - title: "ABOUT"
     url: /about/
   - title: "Work In Progress"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /workinprogress/
   - title: "Who Is the Player"
-    url: /year-archive/
+    url: /whoistheplayer/
   - title: "Login"
-    url: /collection-archive/
+    url: /login/
   # - title: "Sitemap"
   #   url: /sitemap/
