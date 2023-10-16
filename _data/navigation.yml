@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "ABOUT"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /about/
   - title: "Work In Progress"
     url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Who Is the Player"
