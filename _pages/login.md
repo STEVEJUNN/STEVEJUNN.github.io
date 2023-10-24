@@ -1,6 +1,5 @@
----
+---  
 title: "Login"
-layout: single
-permalink: /login/
-author_profile: false
+sitemap: false
+permalink: /login.html
 ---
