@@ -4,3 +4,6 @@ layout: single
 permalink: /whoistheplayer/
 author_profile: false
 ---
+### 피클볼 교육 & 매치
+<a href="/workinprogress/pickleball"><img src="/assets/image/favicon.png" width="300" height="300"></a>
+
