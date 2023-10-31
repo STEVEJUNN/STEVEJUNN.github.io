@@ -7,7 +7,8 @@ main:
   - title: "Who Is the Player"
     url: /whoistheplayer/
   - title: "Login"
-    url: /_pages/login.html
+    # url: /_pages/login.html
+    url: /login/
   - title: "Search"
     url: /search/
     image_path: /assets/image/logo.png

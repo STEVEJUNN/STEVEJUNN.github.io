@@ -197,7 +197,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 markdown: kramdown
 highlighter: rouge
 lsi: false
-excerpt_separator: "\n\n"
+excerpt_separator: "\n"
 incremental: false
 
 
@@ -290,7 +290,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: false
-      excerpt: false
       comments: true
       share: true
       related: true
