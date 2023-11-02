@@ -6,6 +6,7 @@ layout: archive
 
 <h2>Work In Progress</h2>
 <a href="/workinprogress/">:교육 신청 하러가기</a>
+
 <!--
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Work In Progress" }}</h3>
 -->
@@ -22,9 +23,35 @@ layout: archive
   {% endfor %}
 </div> -->
 
+<div class="image-grid">
+  <a href="/workinprogress/pickleball" title="피클볼 class & match"><img src="assets/image/favicon.png" alt="이미지 설명1" style="display:block;">피클볼 class & match</a>
+  <a href="/workinprogress/pickleball" title="피클볼 class & match"><img src="assets/image/favicon.png" alt="이미지 설명1" style="display:block;">테이핑 class</a>
+  <!-- 추가 이미지 -->
+</div>
+
+<style>
+  .image-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* 이미지 크기 및 열 설정 */
+      gap: 10px; /* 이미지 간 간격 */
+  }
+</style>
+
 <h2>Who Is the Player</h2>
 <a href="/whoistheplayer/">: 매치 신청 하러가기</a>
 <!--
 -->
+<div class="image-grid">
+  <a href="/workinprogress/pickleball" title="피클볼 class & match"><img src="assets/image/favicon.png" alt="이미지 설명1" style="display:block;">피클볼 class & match</a>
+  <!-- 추가 이미지 -->
+</div>
+
+<style>
+  .image-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* 이미지 크기 및 열 설정 */
+      gap: 10px; /* 이미지 간 간격 */
+  }
+</style>
 
 {% include paginator.html %}
