@@ -11,6 +11,5 @@ main:
     url: /login/
   - title: "Search"
     url: /search/
-    image_path: /assets/image/logo.png
   # - title: "Sitemap"
   #   url: /sitemap/
