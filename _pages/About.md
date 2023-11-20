@@ -5,6 +5,7 @@ layout: single
 header:
   overlay_image: "/assets/image/header4.png"
   overlay_filter: 0.5
+author_profile: true
 ---
 
 WIP은 ‘배우고 즐기자’라는 모토를 중심으로 만들어진 온라인 스포츠 플랫폼으로 플레이어로 하여금 스포츠를 배우고, 나아가 즐길 수 있도록 합니다. 
