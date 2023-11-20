@@ -108,14 +108,14 @@ author:
   avatar           : "/assets/image/favicon.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Learn to enjoy.\nWhip your Lesiure"
   # location         : "Somewhere"
-  email            : "wip20231011@gmail.com"
+  # email            : "wip20231011@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:wip20231011@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://stevejunn.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -127,7 +127,7 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/wip__official_/"
 
 # Site Footer
 footer:

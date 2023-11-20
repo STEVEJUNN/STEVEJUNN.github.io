@@ -6,9 +6,9 @@ main:
     url: /workinprogress/
   - title: "Who Is the Player"
     url: /whoistheplayer/
-  - title: "Login"
+  # - title: "Login"
     # url: /_pages/login.html
-    url: /login/
+    # url: /login/
   - title: "Search"
     url: /search/
   # - title: "Sitemap"
