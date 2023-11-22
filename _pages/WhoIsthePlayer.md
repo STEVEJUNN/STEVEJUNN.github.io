@@ -5,5 +5,5 @@ permalink: /whoistheplayer/
 author_profile: false
 ---
 ### 피클볼 교육 & 매치
-<a href="/workinprogress/pickleball"><img src="/assets/image/representpickle.jpg" width="300" height="300"></a>
+<a href="/workinprogress/pickleball"><img src="/assets/pickle.jpg" width="300" height="300"></a>
 
