@@ -11,7 +11,7 @@ header:
       url: "https://docs.google.com/forms/d/e/1FAIpQLScmW_boRWCbJBrHN7ZLSFpbcjngGAKnelyB4uqroTT7mnVoEw/viewform?pli=1"
 peramlink: /workinprogress/
 preview: false
-comments: true
+comments: false
 author_profile: false
 ---
 
