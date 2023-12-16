@@ -4,7 +4,8 @@
 
 .masthead {
   position: relative;
-  border-bottom: 1px solid $border-color;
+  background-color: #162546;
+  // border-bottom: 1px solid $border-color;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
   -webkit-animation-delay: 0.15s;
@@ -12,6 +13,7 @@
   z-index: 20;
 
   &__inner-wrap {
+    background-color: #162546;
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
@@ -25,26 +27,29 @@
     -ms-flex-pack: justify;
     justify-content: space-between;
     font-family: $sans-serif-narrow;
-    
     @include breakpoint($x-large) {
       max-width: $max-width;
     }
 
     nav {
+      background-color: #162546;
       z-index: 10;
     }
 
     a {
+      background-color: #162546;
       text-decoration: none;
     }
   }
 }
 
 .site-logo img {
+  background-color: #162546;
   max-height: 2rem;
 }
 
 .site-title {
+  background-color: #162546;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -55,11 +60,13 @@
 }
 
 .site-subtitle {
+  background-color: #162546;
   display: block;
   font-size: $type-size-8;
 }
 
 .masthead__menu {
+  background-color: #162546;
   float: left;
   margin-left: 0;
   margin-right: 0;
@@ -83,6 +90,7 @@
 }
 
 .masthead__menu-item {
+  background-color: #162546;
   display: block;
   list-style-type: none;
   white-space: nowrap;
